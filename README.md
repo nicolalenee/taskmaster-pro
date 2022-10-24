@@ -7,7 +7,14 @@ This interactive application allows users to create new tasks and their due date
 
 
 ## Technology
-We're utilizing the power of the jQuery library alongside jQuery UI, jQuery Touch Punch, Popper, Bootstrap, and Moment.js. These tools help provide smooth user experiences for dragging and dropping, calendar population and date selection, as well as date formatting.
+* jQuery,
+* jQuery UI, 
+* jQuery Touch Punch, 
+* Popper, 
+* Bootstrap, 
+* and Moment.js. 
+
+These tools help provide smooth user experiences for dragging and dropping, calendar population and date selection, as well as date formatting.
 
 ### Questions
 [Repo](http://github.com/nicolalenee)  
